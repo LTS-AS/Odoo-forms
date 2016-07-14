@@ -1,6 +1,6 @@
 <div style="font-family: 'Lucica Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: #FFF; ">
 
-    <p>Hei ${object.partner_id.name},</p><p>Vedlagt ligge faktura fra ${object.company_id.name} :</p><p><br></p>
+    <p>Hei ${object.partner_id.name},</p><p>Vedlagt ligger faktura fra ${object.company_id.name} :</p><p><br></p>
 <p style="border-left-width: 1px; border-left-style: solid; border-left-color: rgb(142, 0, 0); margin-left: 30px;">
 &nbsp;&nbsp;<strong>REFERANSER</strong><br>
 &nbsp;&nbsp;Fakturanummer:&nbsp;<strong>${object.number}<br></strong>
